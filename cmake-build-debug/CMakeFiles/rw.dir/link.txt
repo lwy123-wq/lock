@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/rw.dir/main.cpp.o CMakeFiles/rw.dir/rw.cpp.o CMakeFiles/rw.dir/mywr.cpp.o -o rw 
